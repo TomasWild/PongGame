@@ -1,0 +1,11 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Compiled output
+out/
+target/
+
+# Dependency directories
+lib/
+libs/
